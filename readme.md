@@ -36,10 +36,10 @@
     <img src="images/node_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">Learning Node.js starter project</h3>
 
   <p align="center">
-    project_description
+    This repo is for contain node.js learning project
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
